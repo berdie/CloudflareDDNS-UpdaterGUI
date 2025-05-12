@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudflareDDNS-UpdaterGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1859268b76206182ef958c9c9bc6c02a2fa0bc93")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudflareDDNS-UpdaterGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudflareDDNS-UpdaterGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

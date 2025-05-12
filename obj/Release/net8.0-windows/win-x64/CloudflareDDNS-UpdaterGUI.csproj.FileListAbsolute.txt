@@ -475,3 +475,4 @@ D:\repos\CloudflareDDNS-UpdaterGUI\obj\Release\net8.0-windows\win-x64\Cloudflare
 D:\repos\CloudflareDDNS-UpdaterGUI\obj\Release\net8.0-windows\win-x64\refint\CloudflareDDNS-UpdaterGUI.dll
 D:\repos\CloudflareDDNS-UpdaterGUI\obj\Release\net8.0-windows\win-x64\CloudflareDDNS-UpdaterGUI.genruntimeconfig.cache
 D:\repos\CloudflareDDNS-UpdaterGUI\obj\Release\net8.0-windows\win-x64\ref\CloudflareDDNS-UpdaterGUI.dll
+D:\repos\CloudflareDDNS-UpdaterGUI\obj\Release\net8.0-windows\win-x64\CloudflareDDNS-UpdaterGUI.sourcelink.json
