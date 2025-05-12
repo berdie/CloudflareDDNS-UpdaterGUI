@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAmFl0yC2oo=",
+  "success": true,
+  "projectFilePath": "D:\\repos\\CloudflareDDNS-UpdaterGUI\\CloudflareDDNS-UpdaterGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
